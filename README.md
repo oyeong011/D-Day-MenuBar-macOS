@@ -4,9 +4,7 @@
 
 A simple and useful D-Day counter that lives in your macOS menu bar.
 
-<img width="85" height="39" alt="image" src="https://github.com/user-attachments/assets/29428eed-b702-444e-be1c-e0d05fc12241" />
-
-<img width="323" height="614" alt="image" src="https://github.com/user-attachments/assets/522da1ab-3ba6-4f53-adb1-da5d05200954" />
+<img width="322" height="606" alt="image" src="https://github.com/user-attachments/assets/5f902605-ce83-4202-97ab-27cc694301cc" />
 
 
 ## ✨ Features
