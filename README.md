@@ -1,6 +1,5 @@
-# D-Day-MenuBar-macOS
+# Ticky for macOS
 
-# D-Day Menu Bar for macOS
 
 A simple and useful D-Day counter that lives in your macOS menu bar.
 
